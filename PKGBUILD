@@ -2,7 +2,7 @@
 pkgname=compbench
 pkgver=1.0.0
 pkgrel=1
-pkgdesc=A CLI tool for testing the compression performance of a file under different algorithms;
+pkgdesc="A CLI tool for testing the compression performance of a file under different algorithms"
 arch=("x86_64")
 url="https://github.com/Fgaoxing/Compbench"
 license=("GPL-3.0-or-later")
